@@ -1,10 +1,7 @@
 # data_mcdataface
-**
 
-How can data help us heal communities at high risk for suicide?
----------------------------------------------------------------------
+### How can data help us heal communities at high risk for suicide?
 
-**
 
 **Introduction**
 Suicide is a major public health concern. Over 41,000 people die by suicide each year in the United States; it is the 10th leading cause of death  overall. Suicide is tragic. But it is often preventable. Knowing the risk factors for suicide and who is at risk can help reduce the suicide rate. There are approximately 300 deaths per year on railroads, usually a result of traffic accidents or suicides. 
